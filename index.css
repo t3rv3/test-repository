@@ -1,0 +1,32 @@
+.vectori {
+    width: 20%;
+}
+
+.valko-hius {
+width: 20%;
+}
+
+.oranke {
+    width: 27%;
+}
+
+.kinki {
+    width: 20%;
+}
+
+.setämies {
+    width: 20%;
+}
+
+.rick {
+    width: 20%;
+    height: auto;
+}
+
+body {
+    background-color: cyan;
+}
+
+table, th, td {
+    border:1px solid black;
+  }
